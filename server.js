@@ -9,7 +9,7 @@ app.post('/wait', (req, res) => {
 
   console.log(`Found seconds: ${seconds}`);
 
-  setTimeout(function() {
+  setTimeout(() => {
     res.send({status: 'ok'})
   }, seconds * 1000);
 });
