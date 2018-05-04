@@ -4,8 +4,9 @@ A simple http endpoint that sleeps for a certain amount of time. Mainly used in 
 
 Requirements:
 
-1) Node 8.11.1
-2) yarn
+1) Node 8.11.1 [https://nodejs.org/en/](https://nodejs.org/en/)
+
+2) yarn - npm install -g yarn
 
 To install:
 ```
