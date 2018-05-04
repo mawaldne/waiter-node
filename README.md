@@ -4,8 +4,8 @@ A simple http endpoint that sleeps for a certain amount of time. Mainly used in 
 
 Requirements:
 
-Node 8.11.1
-yarn
+1) Node 8.11.1
+2) yarn
 
 To install:
 ```
